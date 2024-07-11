@@ -12,11 +12,3 @@ I build things that previosly didn't exist. Crazy stuff.
 - [\[EN\] From Advertising to Software Engineering: A human mindset in Technology](https://medium.com/@arupertti/from-advertising-to-software-engineering-a-human-mindset-in-technology-3cc08c9fae1d)
 - [\[PT-BR\] A Experiência na Aceleradora de Métodos Ágeis ThoughtWorks](https://medium.com/@arupertti/a-experi%C3%AAncia-na-aceleradora-de-m%C3%A9todos-%C3%A1geis-thoughtworks-7fb702a4c910)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andreirupertti&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-### ✍️  Random Dev Quote to seem like I'm smart
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
